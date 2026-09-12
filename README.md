@@ -9,39 +9,33 @@
 
 # 📑 Índice
 
-1.  [Primero: ¿qué es Git y GitHub?](#1-primero-qué-es-git-y-github)
-2.  [Cómo será el trabajo de
-    ustedes](#2-cómo-será-el-trabajo-de-ustedes)
-3.  [Parte 1 --- Crear una cuenta de
-    GitHub](#3--parte-1--crear-una-cuenta-de-github)
-4.  [Parte 2 --- Instalar Git en Windows
-    11](#4--parte-2--instalar-git-en-windows-11)
-5.  [Parte 3 --- Comprobar que Git
-    funciona](#5--parte-3--comprobar-que-git-funciona)
-6.  [Parte 4 --- Configurar Git](#6--parte-4--configurar-git)
-7.  [Parte 5 --- Crear el
-    repositorio](#7--parte-5--crear-el-repositorio)
-8.  [Parte 6 --- Agregar a los
-    integrantes](#8--parte-6--agregar-a-los-integrantes)
-9.  [Parte 7 --- Descargar el
-    proyecto](#9--parte-7--descargar-el-proyecto)
-10. [Parte 8 --- Entrar al proyecto](#10--parte-8--entrar-al-proyecto)
-11. [Parte 9 --- Abrir el proyecto](#11--parte-9--abrir-el-proyecto)
-12. [Ahora viene lo más importante](#12--ahora-viene-lo-más-importante)
-13. [Juan trabaja](#13--juan-trabaja)
-14. [Guardar los cambios](#14--guardar-los-cambios)
-15. [Preparar los cambios](#15--preparar-los-cambios)
-16. [Crear el commit](#16--crear-el-commit)
-17. [Subir a GitHub](#17--subir-a-github)
-18. [Al día siguiente: María](#18--al-día-siguiente-maría)
-19. [Y así durante meses](#19--y-así-durante-meses)
-20. [La "chuleta" que deben tener
-    todos](#20--la-chuleta-que-deben-tener-todos)
-21. [Reglas de oro del grupo](#21--reglas-de-oro-del-grupo)
-22. [¿Qué pasa si aparece un error?](#22--qué-pasa-si-aparece-un-error)
-23. [Entender Git en 30 segundos](#23--entender-git-en-30-segundos)
+1.  [Primero: ¿qué es Git y GitHub?](#seccion-1)
+2.  [Cómo será el trabajo de ustedes](#seccion-2)
+3.  [Parte 1 --- Crear una cuenta de GitHub](#seccion-3)
+4.  [Parte 2 --- Instalar Git en Windows 11](#seccion-4)
+5.  [Parte 3 --- Comprobar que Git funciona](#seccion-5)
+6.  [Parte 4 --- Configurar Git](#seccion-6)
+7.  [Parte 5 --- Crear el repositorio](#seccion-7)
+8.  [Parte 6 --- Agregar a los integrantes](#seccion-8)
+9.  [Parte 7 --- Descargar el proyecto](#seccion-9)
+10. [Parte 8 --- Entrar al proyecto](#seccion-10)
+11. [Parte 9 --- Abrir el proyecto](#seccion-11)
+12. [Ahora viene lo más importante](#seccion-12)
+13. [Juan trabaja](#seccion-13)
+14. [Guardar los cambios](#seccion-14)
+15. [Preparar los cambios](#seccion-15)
+16. [Crear el commit](#seccion-16)
+17. [Subir a GitHub](#seccion-17)
+18. [Al día siguiente: María](#seccion-18)
+19. [Y así durante meses](#seccion-19)
+20. [La "chuleta" que deben tener todos](#seccion-20)
+21. [Reglas de oro del grupo](#seccion-21)
+22. [¿Qué pasa si aparece un error?](#seccion-22)
+23. [Entender Git en 30 segundos](#seccion-23)
 
 ------------------------------------------------------------------------
+
+<a id="seccion-1"></a>
 
 # 1. Primero: ¿qué es Git y GitHub?
 
@@ -74,6 +68,8 @@ TU PC                         GITHUB
   `commit`   Guardar un punto de cambio en Git
 
 ------------------------------------------------------------------------
+
+<a id="seccion-2"></a>
 
 # 2. Cómo será el trabajo de ustedes
 
@@ -109,6 +105,8 @@ No necesitan crear ramas todos los días.
 
 ------------------------------------------------------------------------
 
+<a id="seccion-3"></a>
+
 # 3. 🟢 PARTE 1 --- Crear una cuenta de GitHub
 
 Cada integrante necesita una cuenta.
@@ -133,6 +131,8 @@ nombre@gmail.com
 
 ------------------------------------------------------------------------
 
+<a id="seccion-4"></a>
+
 # 4. 🟢 PARTE 2 --- Instalar Git en Windows 11
 
 En **cada computadora** deben instalar Git.
@@ -154,6 +154,8 @@ No necesitan aprender Linux. Git Bash simplemente será nuestra terminal
 para trabajar con Git.
 
 ------------------------------------------------------------------------
+
+<a id="seccion-5"></a>
 
 # 5. 🟢 PARTE 3 --- Comprobar que Git funciona
 
@@ -184,6 +186,8 @@ git version 2.x.x
 ✅ Si aparece una versión, Git está instalado.
 
 ------------------------------------------------------------------------
+
+<a id="seccion-6"></a>
 
 # 6. 🟢 PARTE 4 --- Configurar Git
 
@@ -216,6 +220,8 @@ git config --global --list
 ```
 
 ------------------------------------------------------------------------
+
+<a id="seccion-7"></a>
 
 # 7. 🟢 PARTE 5 --- Crear el repositorio
 
@@ -264,6 +270,8 @@ Finalmente:
 
 ------------------------------------------------------------------------
 
+<a id="seccion-8"></a>
+
 # 8. 🟢 PARTE 6 --- Agregar a los integrantes
 
 La persona que creó el repositorio debe entrar a:
@@ -296,6 +304,8 @@ Cada integrante recibirá una invitación.
 ⚠️ **Cada uno debe aceptar la invitación.**
 
 ------------------------------------------------------------------------
+
+<a id="seccion-9"></a>
 
 # 9. 🟢 PARTE 7 --- Descargar el proyecto
 
@@ -341,6 +351,8 @@ git clone https://github.com/usuario/sistema-ventas.git
 
 ------------------------------------------------------------------------
 
+<a id="seccion-10"></a>
+
 # 10. 🟢 PARTE 8 --- Entrar al proyecto
 
 Después de clonar:
@@ -370,6 +382,8 @@ Perfecto. ✅
 
 ------------------------------------------------------------------------
 
+<a id="seccion-11"></a>
+
 # 11. 🟢 PARTE 9 --- Abrir el proyecto
 
 Si utilizan Visual Studio Code:
@@ -384,6 +398,8 @@ Si `code .` no funciona, simplemente pueden abrir Visual Studio Code y
 seleccionar la carpeta del proyecto.
 
 ------------------------------------------------------------------------
+
+<a id="seccion-12"></a>
 
 # 12. 🟡 AHORA VIENE LO MÁS IMPORTANTE
 
@@ -400,6 +416,8 @@ Esto significa:
 > "GitHub, dame la versión más reciente del proyecto."
 
 ------------------------------------------------------------------------
+
+<a id="seccion-13"></a>
 
 # 13. 👨‍💻 Juan trabaja
 
@@ -425,6 +443,8 @@ Termina su trabajo y prueba que todo funcione.
 
 ------------------------------------------------------------------------
 
+<a id="seccion-14"></a>
+
 # 14. 🟢 Guardar los cambios
 
 Primero:
@@ -444,6 +464,8 @@ modified: clientes_form.cs
 
 ------------------------------------------------------------------------
 
+<a id="seccion-15"></a>
+
 # 15. 🟢 Preparar los cambios
 
 Escriban:
@@ -457,6 +479,8 @@ El punto significa:
 > "Agregar todos los cambios."
 
 ------------------------------------------------------------------------
+
+<a id="seccion-16"></a>
 
 # 16. 🟢 Crear el commit
 
@@ -498,6 +522,8 @@ git commit -m "xd"
 
 ------------------------------------------------------------------------
 
+<a id="seccion-17"></a>
+
 # 17. 🟢 Subir a GitHub
 
 Ahora:
@@ -522,6 +548,8 @@ GitHub
 🎉 Juan terminó.
 
 ------------------------------------------------------------------------
+
+<a id="seccion-18"></a>
 
 # 18. 👩‍💻 Al día siguiente: María
 
@@ -554,6 +582,8 @@ git push
 ```
 
 ------------------------------------------------------------------------
+
+<a id="seccion-19"></a>
 
 # 19. 🔁 Y así durante meses
 
@@ -588,6 +618,8 @@ El siguiente integrante:
 ```
 
 ------------------------------------------------------------------------
+
+<a id="seccion-20"></a>
 
 # 20. 📋 La "chuleta" que deben tener todos
 
@@ -640,6 +672,8 @@ git push
 ```
 
 ------------------------------------------------------------------------
+
+<a id="seccion-21"></a>
 
 # 21. ⚠️ REGLAS DE ORO DEL GRUPO
 
@@ -732,6 +766,8 @@ git push --force
 
 ------------------------------------------------------------------------
 
+<a id="seccion-22"></a>
+
 # 22. 🆘 ¿Qué pasa si aparece un error?
 
 No entren en pánico. 😂
@@ -748,6 +784,8 @@ Copien el mensaje completo del error y pregúntenle al compañero que
 administra el proyecto o busquen ayuda antes de continuar.
 
 ------------------------------------------------------------------------
+
+<a id="seccion-23"></a>
 
 # 🧠 23. Entender Git en 30 segundos
 
